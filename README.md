@@ -121,3 +121,5 @@ Be open to ideas outside of you're existing beliefs
 Stay level headed and treat people with respect
 It isn't personal, the way people act in pressured environments isn't often a true representation of themselves 
 Create an positive environments 
+
+Hello new change 
