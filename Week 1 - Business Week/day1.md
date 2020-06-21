@@ -26,6 +26,26 @@ C-Skills are sharper than a normal employee
 C-Potential to make a lot of contacts by working at different companies
 
 
+SQ3R - 
+Survey 
+	Scan the text and identify its structure
+	Do you need to read this text?
+
+Read 
+	Read the whole text quickly 
+	Don't stop. Even if there is something difficult that you don't understand 
+Query 
+	Ask yourself about each section
+	What do you expect to discover?
+Recall 
+	Look back at your query questions
+	Can you identify which sections help you?
+Review 
+	Read important section again slowly
+	Remember why you are reading 
+	Take notes so that you can remember helpful information and where you found it 
+
+
 6moths probation - plura site access is granted - up skilling when you are on the bench 
 23 days paid holiday  max 25 goes up 1 by year 
 5th may - Birthday off 
