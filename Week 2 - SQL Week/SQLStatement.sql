@@ -1,6 +1,7 @@
-SELECT * FROM Customers 
-WHERE City = 'Paris'
+/*Created by Humza Malak*/
 
+SELECT * FROM Customers
+WHERE City = 'Paris'
 
 --table aliasing 
 SELECT c.CompanyName, c.City , Country, Region 
@@ -9,6 +10,7 @@ WHERE c.Region='BC'
 
 SELECT COUNT(*) FROM Customers WHERE Country='FRANCE'
 
+--Where clause
 SELECT  p.ProductName, p.UnitPrice
 FROM Products p
 WHERE p.CategoryID = 1
@@ -20,6 +22,7 @@ From Products p
 WHERE p.UnitsInStock > 0
 AND p.UnitPrice > 29.99
 
+--Using Distinct
 SELECT DISTINCT c.country
 From Customers c 
 
@@ -107,13 +110,14 @@ SELECT o.UnitPrice, o.Quantity, o.Discount,
 From [Order Details] o 
 
 
-
+--Using TOP
 SELECT TOP 2 o.UnitPrice, o.Quantity, o.Discount,
 (o.UnitPrice * o.Quantity) AS "Gross Total",
 ROUND((o.UnitPrice * o.Quantity) -(O.UnitPrice * o.Discount * o.Quantity), 2) AS "NET TOTAL"
 From [Order Details] o 
 ORDER BY "NET TOTAL" DESC
 
+--Charindexing spaces
 SELECT c.PostalCode "post Code", 
 LEFT(c.PostalCode, CHARINDEX(' ', c.PostalCode)-1) AS "Post code Region",
 CHARINDEX(' ',c.PostalCode) AS "Space Found", c.Country
@@ -122,7 +126,6 @@ WHERE Country = 'UK'
 
 SELECT p.ProductName "alaise", 
 CHARINDEX( ' ', p.ProductName) AS "Quotes"
-FROM Products p 
-
+FROM Products p
 
 SELECT * FROM Employees
