@@ -1,6 +1,6 @@
 /* Created by Humza Malak*/
 
---diffents verions of the DATETIME COMMANDS
+--differents verions of the DATETIME COMMANDS
 SELECT DATEADD(d, 5, OrderDate) AS "Due Date", 
 DATEDIFF(d, OrderDate, shippedDate) AS "Ship Days"
 FROM Orders
@@ -57,5 +57,3 @@ SUM(UnitsOnOrder) AS "Total",
 FROM Products
 GROUP BY SupplierID
 HAVING AVG(UnitsOnOrder) > 5
-
-
