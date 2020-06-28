@@ -1,7 +1,7 @@
 9am stand up
 SQL Joins 
 
-DATE FUNCTIONS 
+DATE FUNCTIONS \
 	The following date functions can be used to manipulate dates in various ways in the SELECT clause
 	
 	GETDATE 
@@ -27,12 +27,12 @@ DATE FUNCTIONS
 		
 		
 	
-CASE Statement
+CASE Statement\
 	CASE statements can be useful when you need varying results output based on differing data
 	Pay close attention to WHEN THERE ELSE and END
 	Use Single quotes for data and Double quotes for column aliases
 	
-Aggregate Functions
+Aggregate Functions\
 	The following aggregate functions can be used to calculate totals usually in conjunction with the GROUP BY clause
 	
 	SUM 
@@ -45,11 +45,11 @@ Aggregate Functions
 		COUNT(*) for the number of NOT NULL rows selected.
 		If * is used then all rows are counted
 
-GROUP BY 
+GROUP BY \
 	Is added to provide subtotals
 	The total, average are calculated for each Supplier 
 	
-HAVING 
+HAVING \
 	Is used instead of WHERE when filtering on subtotals/grouped data
 	Column Aliases cannot be used in the HAVING clause
 	Aggregate functions are not available for use in the WHERE clause due to the SQL processing 

@@ -12,33 +12,32 @@ Went through table aliasing
 Querying the data - learning how to use select efficiently 
 
 
-Wildcards - Wildcards can be used as a substitute for any other characters in a string when using the Like operator 
-
-%   
-    
-    A substitute for zero or more characters
-_    
-    
-    A substitute for a single character
-[charlist]    
-    
-    Sets and ranges of characters to match, this will bring back anything with any of those letters - [abc]%
-[^charlist]     
-    
-    Sets and ranges of characters that don't match - This will bring back anything that does not start with those letters - [^abc]% 
-
-TOP AND OR 
-    
-    to select specific data 
-
-BETWEEN IN CONCAT NULL
-ORDER BY DISTINCT
-MODULOUS 
-OPERATORS 
-
-String Functions 
+Wildcards  
+	Wildcards can be used as a substitute for any other characters in a string when using the Like operator 
 	
-The following string functions can be used to manipulate text in various ways in the SELECT clause
+	%   A substitute for zero or more characters
+	_    A substitute for a single character
+	[charlist]    Sets and ranges of characters to match, this will bring back anything with any of those letters - [abc]%
+	[^charlist]     Sets and ranges of characters that don't match - This will bring back anything that does not start with those letters - [^abc]% 
+
+TOP AND OR - to select specific data 
+\
+BETWEEN 
+\
+IN 
+\
+CONCAT 
+\
+NULL
+\
+ORDER BY 
+\
+DISTINCT
+\
+MODULOUS OPERATORS 
+
+String Functions \
+	The following string functions can be used to manipulate text in various ways in the SELECT clause
 	
 	SUBSTRING - SUBSTRING(expression, start, length)
 			  SUBSTRING(name, 1, 1)
