@@ -19,7 +19,7 @@ SELECT * FROM products
 WHERE Discontinued != 0;
 
 /*Apostrophe*/
-'Anais''s'
+
 
 /*Using table Alias*/
 SELECT c.CompanyName, c.City, c.Country, c.Region
