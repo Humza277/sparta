@@ -1,6 +1,6 @@
 /* Created by Humza Malak*/
 
---differents verions of the DATETIME COMMANDS
+--Different versions of the DATETIME COMMANDS
 SELECT DATEADD(d, 5, OrderDate) AS "Due Date", 
 DATEDIFF(d, OrderDate, shippedDate) AS "Ship Days"
 FROM Orders
@@ -45,7 +45,7 @@ FROM Products
 GROUP BY SupplierID
 
 -- Sum , Average, Min , Max, Count, with group by 
-SELECT AVG(p.ReorderLevel ) AS "AVG Reorder LEvel"
+SELECT AVG(p.ReorderLevel ) AS "AVG Reorder Level"
 FROM Products p 
 GROUP By p.CategoryID
 Order by "Avg Reorder Level" DESC
