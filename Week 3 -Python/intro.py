@@ -29,10 +29,12 @@
 # create a variable called address
 # prompt the user to get all of the above information
 # display all the information collected from the user
-first_name = input("please enter your first")
-last_name = input("please enter your last")
+first_name = input("please enter your first name")
+last_name = input("please enter your last name")
 full_name = first_name + " " + last_name
 print(full_name)
 age = input("please enter your age")
 address = input("please enter your address")
 print(full_name + " : " + age + " : " + address)
+
+
