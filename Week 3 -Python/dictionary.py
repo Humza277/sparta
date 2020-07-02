@@ -1,7 +1,7 @@
 # dictionaries in python use a key pair syntax
-records = {1: "humza",
-           2: "anias",
-           3: ["string ", "tuples", "list"]}
+# records = {1: "humza",
+#            2: "anias",
+#            3: ["string ", "tuples", "list"]}
 
 # print(records)
 # print(sorted(records))
@@ -17,8 +17,8 @@ records = {1: "humza",
 # #print(records)
 # print(records[3][2])
 
-for rec in records:
-    print(records)
+#for rec in records:
+    #print(records)
 
 # dictionary with 5 key pairs
 # using loop iterate through the dictonary
@@ -26,7 +26,9 @@ for rec in records:
 employees = {
     "dave" : 1,
     "jorge": 2,
-    "willow": 3
+    "willow": 3,
     "john": 4,
     "humza": 5
 }
+for key, val in employees.items():
+    print(key, val)
