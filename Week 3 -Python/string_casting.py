@@ -18,8 +18,10 @@ use_text = "here's SOME text with lot's of text"
 # count() counts the substring within the string
 print(use_text.count("a"))
 print(use_text.count("text"))
+#String Slicing
 print(use_text.lower())
 print(use_text.upper())
+
 print(use_text.capitalize())
 print(use_text.replace("with", ","))
 

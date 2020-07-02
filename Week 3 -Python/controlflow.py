@@ -38,15 +38,6 @@ else:
     print("Enjoy the film")
 
 
-
-
-
-
-
-
-
-
-
 # while ratings.__contains__("U"):
 #     if int(age) <= 17:
 #         print("You can watch the film")
