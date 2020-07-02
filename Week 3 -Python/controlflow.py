@@ -18,24 +18,20 @@ rain = "rain"
 # else:
 #     print("not beach weather")
 
-ratings_kidz = [7]
-ratings_adults =
+ratings = ["U", "PG", "12a", "15", "18"]
 # if age <= 17 cant watch rated 18 films
 # if age 12 =< cant watch any movies above 12
 # display messages accordingly
 
 age = int(input("Please input age"))
-
-if: age =< 12
-    print("You can watch films rated 12 or lower")
-elif: 12 < age <= 15
-    print("You can watch films rated 15 or lower ")
-if 15 < age <= 17:
-    print("Not old enough to watch 18+ films, anything rated lower you can watch ")
-elif  age => 18:
-    print('You can watch 18+ films')
+if  age >= 18:
+    print('You can watch 18+ films', ratings)
+elif  14 <age < 17:
+    print("Not old enough to watch 18+ films, anything rated lower you can watch ", ratings[0:4])
+elif 11< age <15:
+    print("You can watch films rated 15 or lower ", ratings[0:3])
 else:
-    print("Enjoy the film")
+    print("You can watch films rated 12 or lower", ratings[0:2])
 
 
 # while ratings.__contains__("U"):
