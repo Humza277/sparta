@@ -9,8 +9,8 @@ This contains all the files that I have created in my 12 week training in the De
 \
 [Week 3 - Python Week](https://github.com/Humza277/sparta/tree/master/Week%203%20-Python)
 \
-[Week 4 - Python Week 2]()
+[Week 4 - Python Week 2](https://github.com/Humza277/sparta/tree/master/Week%204%20-%20AdvancedPython)
 \
-[Week 5 - Project week]()
+[Week 5 - Project week](https://github.com/Humza277/sparta/tree/master/Week%205%20-%20Project%20Week/Project)
 
 Humza.M 
