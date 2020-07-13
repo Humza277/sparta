@@ -4,7 +4,7 @@
 CREATE DATABASE humza_db;
 --Specify which Database to use
 USE humza_db
---Good Practice to have, check to see if database has a table with the same name already
+--Good Practice to have, check to see if PythonDatabase has a table with the same name already
 drop table film_table;
 --Creates the film table with
 Create table film_table

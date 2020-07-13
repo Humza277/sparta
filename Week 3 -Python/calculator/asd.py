@@ -1,7 +1,7 @@
 # create classmethod
 
 # imports the function class
-import operators
+from operators import *
 
 
 class Python_Calculator:
