@@ -11,6 +11,13 @@ This contains all the files that I have created in my 12 week training in the De
 \
 [Week 4 - Python Week 2](https://github.com/Humza277/sparta/tree/master/Week%204%20-%20AdvancedPython)
 \
-[Week 5 - Project week](https://github.com/Humza277/sparta/tree/master/Week%205%20-%20Project%20Week/Project)
-
+[Week 5 - Project week](https://github.com/Humza277/pythonProject)
+\
+[Week 6 - MCV Flask](https://github.com/Humza277/pythonflask)
+\
+[Week 7 - Virtual Machines](https://github.com/Humza277/ubuntuvagrant)
+\
+[Week 7 - Virtual Machine](https://github.com/Humza277/vagrant_multiservers)
+\
+[Week 7 - Virtual Machine](https://github.com/Humza277/vagrantAutomated)
 Humza.M 
