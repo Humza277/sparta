@@ -15,10 +15,10 @@ This contains all the files that I have created in my 12 week training in the De
 \
 [Week 6 - MCV Flask](https://github.com/Humza277/pythonflask)
 \
-[Week 7 - Virtual Machines](https://github.com/Humza277/ubuntuvagrant)
+[Week 7 - Virtual Machines - Basic](https://github.com/Humza277/ubuntuvagrant)
 \
-[Week 7 - Virtual Machine](https://github.com/Humza277/vagrant_multiservers)
+[Week 7 - Virtual Machine - Two Machines](https://github.com/Humza277/vagrant_multiservers)
 \
-[Week 7 - Virtual Machine](https://github.com/Humza277/vagrantAutomated)
+[Week 7 - Virtual Machine - NGINX Proxy](https://github.com/Humza277/vagrantAutomated)
 \
 Humza.M 
