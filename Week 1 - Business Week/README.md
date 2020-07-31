@@ -1,0 +1,1 @@
+This Repo deals with the soft skills we have learned in week one of the course 
