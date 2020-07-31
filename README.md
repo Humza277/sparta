@@ -21,4 +21,5 @@ This contains all the files that I have created in my 12 week training in the De
 \
 [Week 7 - Virtual Machine - NGINX Proxy](https://github.com/Humza277/vagrantAutomated)
 \
+\
 Humza.M 
