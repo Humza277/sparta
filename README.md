@@ -21,9 +21,10 @@ This contains all the files that I have created in my 12 week training in the De
 \
 [Week 7 - Virtual Machine - NGINX Proxy](https://github.com/Humza277/vagrantAutomated)
 \
-[Week 8 - CI with Jenkins](https://github.com/Humza277/ci-start-code)
+[Week 8 - CI with Jenkins - Theory](https://github.com/Humza277/ci-start-code)
 \
-[Week 8 - CI with Jenkins](https://github.com/Humza277/sparta-web-app)
+[Week 8 - CI with Jenkins - Web App](https://github.com/Humza277/sparta-web-app)
 \
 [Week 9 - CI/CD Pipline on AWS with VPC](https://github.com/Humza277/AWS_Node_app)
+\
 Humza.M 
