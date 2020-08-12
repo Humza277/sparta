@@ -1,7 +1,7 @@
-# Sparta
+# Sparta Global
 Welcome to my Repo.
 
-This contains all the files that I have created in my 12 week training in the DevOps course 
+The below links contains all the files and projects that I have created during the 12 week training on the DevOps course.
 
 [Week 1 - Business Week](https://github.com/Humza277/sparta/tree/master/Week%201%20-%20Business%20Week)
 \
