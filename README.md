@@ -9,7 +9,7 @@ The below links contains all the files and projects that I have created during t
 \
 [Week 3 - Python Week](https://github.com/Humza277/sparta/tree/master/Week%203%20-Python)
 \
-[Week 4 - Python Week 2](https://github.com/Humza277/sparta/tree/master/Week%204%20-%20AdvancedPython)
+[Week 4 - Python Week - Part 2](https://github.com/Humza277/sparta/tree/master/Week%204%20-%20AdvancedPython)
 \
 [Week 5 - Project week](https://github.com/Humza277/pythonProject)
 \
